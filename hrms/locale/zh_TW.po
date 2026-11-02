@@ -1,11 +1,11 @@
-# Translations template for Frappe HR.
+# Translations template for thinkNXG HR.
 # Copyright (C) 2024 Frappe Technologies Pvt. Ltd.
-# This file is distributed under the same license as the Frappe HR project.
+# This file is distributed under the same license as the thinkNXG HR project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Frappe HR VERSION\n"
+"Project-Id-Version: thinkNXG HR VERSION\n"
 "Report-Msgid-Bugs-To: contact@frappe.io\n"
 "POT-Creation-Date: 2024-01-11 19:17+0553\n"
 "PO-Revision-Date: 2024-01-11 19:17+0553\n"
@@ -239,7 +239,7 @@ msgstr "<b>已分配休假合計</b>超過分配期間的天數"
 msgid ""
 "<h3>Data Import</h3>\n"
 "\n"
-"Data import is the tool to migrate your existing data like Employee, Customer, Supplier, and a lot more to our ERPNext system.\n"
+"Data import is the tool to migrate your existing data like Employee, Customer, Supplier, and a lot more to our thinkNXG ERP system.\n"
 "Go through the video for a detailed explanation of this tool."
 msgstr ""
 
@@ -293,7 +293,7 @@ msgstr ""
 msgid ""
 "<h3>Holiday List.</h3>\n"
 "\n"
-"Holiday List is a list which contains the dates of holidays. Most organizations have a standard Holiday List for their employees. However, some of them may have different holiday lists based on different Locations or Departments. In ERPNext, you can configure multiple Holiday Lists."
+"Holiday List is a list which contains the dates of holidays. Most organizations have a standard Holiday List for their employees. However, some of them may have different holiday lists based on different Locations or Departments. In thinkNXG ERP, you can configure multiple Holiday Lists."
 msgstr ""
 
 #. Description of the Onboarding Step 'Create Leave Allocation'
@@ -8582,8 +8582,8 @@ msgid "If set, the job opening will be closed automatically after this date"
 msgstr ""
 
 #: patches/v15_0/notify_about_loan_app_separation.py:17
-msgid "If you are using loans in salary slips, please install the {0} app from Frappe Cloud Marketplace or GitHub to continue using loan integration with payroll."
-msgstr "若您在薪資單中使用貸款，請從 Frappe Cloud Marketplace 或 GitHub 安裝 {0} 應用程式，以繼續使用薪資與貸款的整合功能。"
+msgid "If you are using loans in salary slips, please install the {0} app from thinkNXG Cloud Marketplace or GitHub to continue using loan integration with payroll."
+msgstr "若您在薪資單中使用貸款，請從 thinkNXG Cloud Marketplace 或 GitHub 安裝 {0} 應用程式，以繼續使用薪資與貸款的整合功能。"
 
 #. Label of a Section Break field in DocType 'Upload Attendance'
 #: hr/doctype/upload_attendance/upload_attendance.json
@@ -16481,8 +16481,8 @@ msgid "View Goals"
 msgstr "檢視目標"
 
 #: patches/v15_0/notify_about_loan_app_separation.py:16
-msgid "WARNING: Loan Management module has been separated from ERPNext."
-msgstr "警告：貸款管理模組已從 ERPNext 中分離。"
+msgid "WARNING: Loan Management module has been separated from thinkNXG ERP."
+msgstr "警告：貸款管理模組已從 thinkNXG ERP 中分離。"
 
 #: setup.py:390
 msgid "Walk In"
